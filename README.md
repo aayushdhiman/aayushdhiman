@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aayushdhiman
+- 👀 I’m interested in machine learning, forensics, analysis, and reverse engineering.
+- 🌱 I’m currently learning how to use IDA and various debuggers to reverse engineer encryption software.
+- 💞️ I’m looking to collaborate on password and encryption cracking!
+- 📫 How to reach me: DM me on Instagram @aayush_d10.
