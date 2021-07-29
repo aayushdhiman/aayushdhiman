@@ -14,3 +14,11 @@
 - Top 100 National Cyberpatriot competitor
 - Member of Virginia's All-State Academic team
 - Computer Science Major at Northeastern University
+
+## Currently, I'm working on...
+
+---
+
+- Developing a portfolio website
+- Editing ROM files
+- Using space filling curves to cluster resume data
