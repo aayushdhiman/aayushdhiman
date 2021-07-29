@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @aayushdhiman
-- 👀 I’m interested in machine learning, forensics, analysis, and reverse engineering.
-- 🌱 I’m currently learning how to use IDA and various debuggers to reverse engineer encryption software.
-- 💞️ I’m looking to collaborate on password and encryption cracking!
-- 📫 How to reach me: DM me on Instagram @aayush_d10.
+## Welcome to @aayushdhiman 's GitHub!
+
+ ---
+
+ - I'm Aayush, a college student interested in machine learning, forensics, and reverse engineering
+ - Currently, I'm working on projects that use disassemblers and debuggers to crack encryption software.
+ - If you want to reach me, please DM me on Instagram at @aayush_d10 or on Discord at Prosper#6142.
+
+## My Activities
+
+---
+
+- Member of DFEND internship at Mantech
+- Top 100 National Cyberpatriot competitor
+- Member of Virginia's All-State Academic team
+- Computer Science Major at Northeastern University
