@@ -4,7 +4,7 @@
 
  - I'm Aayush, a college student interested in machine learning, forensics, and reverse engineering
  - Currently, I'm working on projects that use disassemblers and debuggers to crack encryption software.
- - If you want to reach me, please DM me on Instagram at @aayush_d10 or on Discord at Prosper#6142.
+ - If you want to reach me, please DM me on Instagram at @aayush_d10.
 
 ## My Activities
 
