@@ -4,7 +4,7 @@
 
  - I'm Aayush, a college student interested in machine learning, forensics, and reverse engineering.
  - Currently, I'm working on projects that use disassemblers and debuggers to crack encryption software.
- - If you want to reach me, please contact me on LinkedIn at https://www.linkedin.com/in/aayushdhiman/.
+ - If you want to reach me, please contact me via email or on LinkedIn at https://www.linkedin.com/in/aayushdhiman/.
 
 ## My Activities
 
