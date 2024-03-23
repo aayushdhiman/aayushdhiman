@@ -6,12 +6,7 @@
 
 ## My Activities
 
-- Second year computer science major with a concentration in AI at Northeastern University in Boston, MA.
+- Third year computer science major with a concentration in AI at Northeastern University in Boston, MA.
 - Member of DFEND internship at Mantech
 - Top 100 National Cyberpatriot competitor
 - Member of Virginia's All-State Academic team
-
-## Currently, I'm working on...
-
-- Developing a portfolio website
-- Optimizing security with deep learning
